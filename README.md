@@ -6,4 +6,4 @@ Used HTML,CSS,JavaScript and Web APIs to create an interactive game with 5 quest
 
 Link to repository: https://github.com/acp25/Code-Quiz.git
 
-URL link:file:///C:/Users/frank/OneDrive/Desktop/codequiz/index.html
+URL link:https://acp25.github.io/Code-Quiz/
